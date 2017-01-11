@@ -26,4 +26,4 @@ Syntax highlighted code block
 
 ### Contact
 
-Email me at ### lenayang55@gmail.com.
+Email me at **lenayang55@gmail.com**.
