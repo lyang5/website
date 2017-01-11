@@ -4,7 +4,7 @@ My name is Lena.
 
 ### This site is still work in progress!
 
-Please bare with me. 
+Please bear with me. 
 
 ```markdown
 Syntax highlighted code block
@@ -26,4 +26,4 @@ Syntax highlighted code block
 
 ### Contact
 
-Email me at ###lenayang55@gmail.com.
+Email me at ### lenayang55@gmail.com.
