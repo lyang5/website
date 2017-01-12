@@ -28,14 +28,8 @@ p {
   left: 50%;
   margin: -200px 0 0 -210px;
 }
-.row {
-    display: table;
-    width: 100%; /*Optional*/
-    table-layout: fixed; /*Optional*/
-    border-spacing: 10px; /*Optional*/
-}
-.column {
-    display: table-cell;
+.4elements {
+    white-space: nowrap;
 }
     
 a:visited {
