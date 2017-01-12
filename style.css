@@ -30,6 +30,9 @@ p {
 }
 .4elements {
     white-space: nowrap;
+    position: absolute;
+    top: 75%;
+    left: 50%;
 }
     
 a:visited {
