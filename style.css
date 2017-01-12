@@ -28,17 +28,8 @@ p {
   left: 50%;
   margin: -200px 0 0 -200px;
 }
-.projects {
-    float: left;
-}
-.photos {
-    float: left;
-}
-.blog {
-    float: left;
-}
-.contact {
-    float: left;
+.4elements {
+    white-space: nowrap; 
 }
 a:visited {
     color: green;
