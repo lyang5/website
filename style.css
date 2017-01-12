@@ -12,6 +12,7 @@ h2 {
     font-family: Garamond;
     font-size: 25px;
     color: white;
+    margin: 0;
 }
 p {
     color: white;
@@ -22,7 +23,7 @@ p {
   z-index: 1;
   top: 50%;
   left: 50%;
-  margin: -275px 0 0 -200px;
+  margin: -275px 0 0 -250px;
 }
 .circles {
     color: white;
