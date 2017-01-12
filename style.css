@@ -38,14 +38,6 @@ p {
     display: table-cell;
 }
     
-#projects {
-    text-align: center;
-    width: 115;
-}
-#projects img {
-    margin: 0 auto;
-}
-
 a:visited {
     color: green;
 }
