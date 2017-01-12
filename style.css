@@ -29,11 +29,10 @@ p {
   margin: -200px 0 0 -210px;
 }
 .circles {
-  position: relative;
+  position: absolute;
   z-index: 1;
-  top: 70%;
   left: 50%;
-  margin: -200px 0 0 0;
+  margin: -200px 0 0 -200px;
   padding-top: 70px;
 }
 #projects {
