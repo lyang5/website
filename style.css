@@ -24,7 +24,7 @@ p {
   z-index: 1;
   top: 50%;
   left: 50%;
-  margin: -150px 0 0 -185px;
+  margin: 0 0 0 -185px;
 }
 .circles {
     color: white;
