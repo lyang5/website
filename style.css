@@ -30,7 +30,6 @@ p {
 }
 .4elements {
     white-space: nowrap;
-    position: relative;
     top: 75%;
     left: 50%;
 }
