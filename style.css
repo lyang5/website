@@ -26,12 +26,20 @@ p {
   z-index: 1;
   top: 50%;
   left: 50%;
-  margin: -200px 0 0 -225px;
+  margin: -200px 0 0 -210px;
 }
 .circles {
     color: white;
     padding-top: 70px;
 }
+#projects {
+    text-align: justify;
+    width: 115;
+}
+#projects img {
+    margin: 0 auto;
+}
+
 a:visited {
     color: green;
 }
