@@ -6,12 +6,11 @@ h1 {
     text-align: center;
     font-family: Garamond;
     font-size: 100px;
-    padding-bottom: -50px;
 }
 h2 {
     text-align: center;
     font-family: Garamond;
-    font-size: 40px;
+    font-size: 30px;
     color: white;
 }
 p {
@@ -19,8 +18,6 @@ p {
 }
 .format {
   position: absolute;
-  width: 600px;
-  height: 200px;
   z-index: 1;
   top: 50%;
   left: 50%;
@@ -28,5 +25,5 @@ p {
 }
 .circles {
     color: white;
-    padding: 50px;
+    padding-top: 50px;
 }
