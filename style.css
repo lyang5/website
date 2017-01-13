@@ -21,18 +21,16 @@ p {
     color: white;
     text-align: center;
 }
-
-.4elements {
-    white-space: nowrap;
-    margin: 300px 0 0 0;
-    padding: 0;
-}
 .format {
   position: absolute;
   z-index: 1;
   top: 50%;
   left: 50%;
   margin: -200px 0 0 -190x;
+}
+.4elements {
+    margin: 300px 0 0 0;
+    padding: 0;
 }
 a:visited {
     color: purple;
