@@ -37,6 +37,9 @@ p {
   left: 50%;
   margin: -100px 0 0 -250px;
 }
+.elements {
+    padding-top: 50px;
+}
 
 a:link {
     color: lightblue;
@@ -48,6 +51,11 @@ a:visited {
 
 a:hover {
     color: pink;
+}
+
+a:active {
+    color: red;
+    font-size: 27px;
 }
 
 .project-table {
