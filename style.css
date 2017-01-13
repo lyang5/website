@@ -40,7 +40,8 @@ p {
 
 .4elements {
     border: solid red;
-    top: 100%;
+    margin-top: 500px;
+    padding-top: 500px;
 }
 a:link {
     color: lightblue;
@@ -52,4 +53,12 @@ a:visited {
 
 a:hover {
     color: pink;
+}
+
+.project-table {
+    margin: 200px;
+}
+
+th, td {
+    padding: 15px;
 }
