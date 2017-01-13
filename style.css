@@ -28,7 +28,7 @@ p {
   z-index: 15;
   top: 45%;
   left: 50%;
-  margin: -200px 0 0 -250px;
+  margin: -100px 0 0 -250px;
   border: solid red;
 }
 
@@ -37,7 +37,7 @@ a:link {
 }
 
 a:visited {
-    color: green;
+    color: lightgreen;
 }
 
 a:hover {
