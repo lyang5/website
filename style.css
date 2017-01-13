@@ -44,10 +44,9 @@ p {
   margin: -100px 0 0 -250px;
 }
 .elements {
-    padding-top: 50px;
-    padding-right: 50px;
+    padding-top: 40px;
+    padding-right: 60px;
     float: right;
-
 }
 
 a:link {
