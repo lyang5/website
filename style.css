@@ -29,11 +29,7 @@ p {
     text-align: center;
 }
 .watermark {
-    margin-top: 25px;
-    margin-left: 25px;
-}
-.watermark, .elements {
-    display: inline-block;
+    position: fixed;
 }
 
 .format {
