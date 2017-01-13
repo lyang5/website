@@ -29,7 +29,8 @@ p {
   margin: -200px 0 0 -190x;
 }
 .4elements {
-    margin-top: 300px;
+  margin-top: 300px;
+  float: left;
 }
 a:visited {
     color: purple;
