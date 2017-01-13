@@ -61,6 +61,7 @@ a:hover {
 
 .project-table {
     margin: 200px;
+    padding:0px;
 }
 
 th, td {
