@@ -33,12 +33,9 @@ p {
     padding-top: 25px;
     padding-left: 25px;
 }
-.watermark a:hover { 
+.watermark img { 
     color: red; 
 } 
-.watermark a:active { 
-    color: red;
-}
 
 .format {
   position: absolute;
