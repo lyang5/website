@@ -29,4 +29,5 @@ p {
   top: 40%;
   left: 50%;
   margin: -200px 0 0 -250px;
+  border: red;
 }
