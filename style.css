@@ -26,15 +26,14 @@ p {
   width: 500px;
   height: 200px;
   z-index: 15;
-  top: 47%;
+  top: 42%;
   left: 50%;
   margin: -100px 0 0 -250px;
   border: solid red;
 }
 
 .4elements {
-    margin-top: 400px;
-    border: solid green;
+    border: solid red;
 }
 a:link {
     color: lightblue;
