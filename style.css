@@ -28,6 +28,11 @@ p {
     color: white;
     text-align: center;
 }
+#watermark {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
 .format {
   position: absolute;
   width: 500px;
