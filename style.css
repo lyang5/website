@@ -30,8 +30,8 @@ p {
 }
 .watermark {
     float: left;
-    margin-top: 25px;
-    margin-left: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
 }
 
 .format {
@@ -45,8 +45,9 @@ p {
 }
 .elements {
     padding-top: 50px;
+    padding-right: 50px;
     float: right;
-    margin-right: 50px;
+
 }
 
 a:link {
