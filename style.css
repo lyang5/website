@@ -22,6 +22,7 @@ h3 {
     font-family: Garamond;
     font-size: 25px;
     color: pink;
+    margin: 0;
 }
 p {
     color: white;
@@ -38,11 +39,6 @@ p {
   border: solid red;
 }
 
-.4elements {
-    border: solid red;
-    margin-top: 500px;
-    padding-top: 500px;
-}
 a:link {
     color: lightblue;
 }
