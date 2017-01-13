@@ -28,11 +28,9 @@ p {
     color: white;
     text-align: center;
 }
-#watermark {
+.watermark {
     margin-top: 25px;
     margin-left: 25px;
-    width: 60px;
-    height: 60px;
     float: left;
 }
 
