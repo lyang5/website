@@ -52,11 +52,9 @@ p {
 a:link {
     color: lightblue;
 }
-
 a:visited {
     color: purple;
 }
-
 a:hover {
     color: pink;
 }
