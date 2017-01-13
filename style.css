@@ -31,3 +31,15 @@ p {
   margin: -200px 0 0 -250px;
   border: solid red;
 }
+
+a:link {
+    color: light blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: pink;
+}
