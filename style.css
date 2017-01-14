@@ -72,3 +72,7 @@ a:hover {
 th, td {
     padding: 5px;
 }
+
+th {
+    width: 33.3%;
+}
