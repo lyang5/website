@@ -67,3 +67,7 @@ a:hover {
 th, td {
     padding: 15px;
 }
+
+table {
+    padding-top: 50px;
+}
