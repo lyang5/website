@@ -81,7 +81,8 @@ th {
     width: 500px;
     height: 400px;
     padding-top: 150px;
+    padding-left: 200px;
 }
-.travel {
+.travel, .product {
     display: inline;
 }
