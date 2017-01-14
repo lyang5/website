@@ -77,9 +77,6 @@ th {
     width: 33.3%;
 }
 
-.product {
-    float: left;
-}
-.travel {
-    float: right;
+.product, .travel {
+    display: inline;
 }
