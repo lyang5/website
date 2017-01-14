@@ -80,3 +80,12 @@ th {
 .product, .travel {
     display: inline;
 }
+
+.formatphoto {
+  position: absolute;
+  width: 1000px;
+  height: 200px;
+  z-index: 15;
+  top: 37%;
+  left: 50%;
+  margin: -100px 0 0 -250px;
