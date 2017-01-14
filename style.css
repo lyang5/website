@@ -77,6 +77,11 @@ th {
     width: 33.3%;
 }
 
-.product, .travel {
+.product {
+    width: 500px;
+    height: 400px;
+    padding-top: 150px;
+}
+.travel {
     display: inline;
 }
