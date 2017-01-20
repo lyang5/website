@@ -87,13 +87,12 @@ th, td {
 .project-table th {
     width: 33.3%;
 }
+table .product-table {
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.product-table td {
+    width: 20%;
+}
 
-.product {
-    width: 500px;
-    height: 400px;
-    padding-top: 150px;
-    padding-left: 200px;
-}
-.travel, .product {
-    display: inline;
-}
