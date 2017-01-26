@@ -74,6 +74,7 @@ a:hover {
 .project-table p {
     margin-top: -15px;
     font-family: Helvetica; 
+    font-weight: normal;
 }
 .petra-table {
     margin: 0;
