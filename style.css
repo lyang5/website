@@ -1,5 +1,5 @@
 @font-face { 
-    font-family: "HelveticaNeue"; 
+    font-family: HelveticaNeue; 
     src: url(http://lenayang.me/HelveticaNeue.ttf) format("truetype"); 
 }
 
@@ -31,7 +31,7 @@ h3 {
 }
 h4 {
     color:white;
-    font: "HelveticaNeue", Helvetica;
+    font: HelveticaNeue, Helvetica;
     font-size: 15px;
 }
 p {
